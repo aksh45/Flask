@@ -8,7 +8,7 @@ def index():
 <head>
 <title>Home Page-microblog</title>
 </head>
-<body>
+<body bgcolor = 'pink'> 
 <h1>Hello,'''+user['username']+'''!<h1>
 </body>
 </html>'''
